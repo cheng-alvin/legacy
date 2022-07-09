@@ -1,0 +1,6 @@
+#Git ignore uneeded files in repository
+node_modules
+.env
+vars.js
+.DS_Store
+.bash_profile
