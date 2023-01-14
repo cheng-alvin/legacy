@@ -8,7 +8,7 @@ Welcome to the Chill&chat API documentation, here you can learn more about the c
 
 Please note this API is licensed under the MIT license. please find the LICENSE file for more information.
 
-(c) copyright 2021-2022 Alvin Cheng
+(c) copyright 2021-2023 Alvin Cheng
 
 # Endpoints:
 

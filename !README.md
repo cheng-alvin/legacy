@@ -1,5 +1,6 @@
 # Chill&chat
-![](https://img.shields.io/github/repo-size/Chill-and-chat/Chill-chat)   ![](https://img.shields.io/github/v/release/Chill-and-chat/Chill-chat)
+
+![](https://img.shields.io/github/repo-size/Chill-and-chat/Chill-chat) ![](https://img.shields.io/github/v/release/Chill-and-chat/Chill-chat)
 
 ![](https://github.com/Chill-and-chat/Chill-chat/blob/master/Frontend/app/src/content/logo.svg)
 
@@ -13,9 +14,9 @@ https://chill-and-chat-web.web.app/
 
 This repository is licensed under the MIT License. Please see the [LICENSE](https://github.com/Chill-and-chat/Chill-chat/blob/master/LICENSE) file for license information.
 
-(C) Copyright 2021-2022 Alvin cheng (Brother and sister software)
+(C) Copyright 2021-2023 Alvin cheng (Brother and sister software)
 
-(C) Copyright 2021-2022 Brianna cheng (Brother and sister software)
+(C) Copyright 2021-2023 Brianna cheng (Brother and sister software)
 
 ## Contribution
 
@@ -23,10 +24,9 @@ Feel free to contribute to this project. To contribute, please fork the project 
 
 I look forward to seeing your contributions to Chill&chat!
 
-
 ## Credits
 
-Alvin cheng - Software engineer 
+Alvin cheng - Software engineer
 
 Brianna cheng - UI/UX designer
 
@@ -44,10 +44,11 @@ Github:
 AlvinC888
 
 ## API
+
 I made a custom API with node to serve chill&chat and you can download it in the project which is available in the backend folder and you can read the documentation(DEPRECATED) in ./backend/api/APIDocumentation.md for a detailed description.
 
 Please note: I WILL NOT SHARE THE API LINK TO THE PUBLIC IF YOU WANT TO USE IT PLEASE MAKE SURE TO DEPLOY IT YOURSELF.
 
 #
 
-This project is created by Alvin Cheng and Brianna Cheng(Brother sister software) 2021-2022.
+This project is created by Alvin Cheng and Brianna Cheng(Brother sister software) 2021-2023.
